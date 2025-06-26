@@ -327,5 +327,5 @@ ORDER BY donation_count DESC;
 
 🧠 **Use Case:** Designed for Business Analysts to explore SQL skills across filtering, joining, aggregating, validating, and using subqueries.
 
-📁 File: `blood_donation_queries.sql`
+📁 File:[blood_donation_queries.sql](https://github.com/shayisthaabdulla/Blood_Donation_SQL_Project/blob/main/blood_donation.sql)
 ✅ PostgreSQL Compatible
