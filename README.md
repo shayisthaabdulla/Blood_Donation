@@ -90,7 +90,7 @@ CREATE TABLE rewards (
 ```
 
 ### 📊 SQL Queries for Business Analysts
-The full list of 30+ real-world queries is saved in[blood_donation_queries.sql](https://github.com/shayisthaabdulla/Blood_Donation/blob/main/blood_donation.sql) covering:
+The full list of 30+ real-world queries is saved in [blood_donation_queries.sql](https://github.com/shayisthaabdulla/Blood_Donation/blob/main/blood_donation.sql) covering:
 
 - ✅ Basic SELECT & Filtering
 - 🔗 JOINs & Relationships
